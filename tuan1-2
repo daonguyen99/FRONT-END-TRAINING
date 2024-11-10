@@ -1,1 +1,17 @@
 * Tìm hiểu Github
+-   Cấu hình thông tin người dùng (tên và email) 
+  git config --global user.name "Tên của bạn"
+  git config --global user.email "email@example.com"
+-  Khởi tạo một kho lưu trữ Git mới
+  git init
+-  Thêm liên kết đến kho lưu trữ GitHub:
+  git remote add origin https://github.com/tên-tài-khoản/tên-repo.git
+-  Để thêm các file vào Git, sử dụng lệnh:
+  git add .
+-  Khi bạn đã thêm các thay đổi vào staging area, hãy commit chúng:
+  git commit -m "Thông điệp commit"
+-  Để đẩy (push) mã nguồn lên kho lưu trữ GitHub:
+  git push -u origin master
+-  Tạo nhánh mới
+  git checkout -b tên-nhánh-mới
+
