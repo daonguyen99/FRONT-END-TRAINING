@@ -4,6 +4,7 @@
 ### Tuần 1–2:
     * Tìm hiểu Git cơ bản ( có thể sử dụng GitLab hoặc GitHub miễn thao tác được cơ bản)
     * Học HTML và CSS cơ bản: Nắm vững cấu trúc HTML và cách sử dụng CSS để tạo giao diện đơn giản.
+    * Học CSS Framework Tailwind CSS: Sử dụng để tạo giao diện nhanh chóng. (Ôn lại kiến thức Bootstrap)
     * Thực hành: Tạo một số trang web đơn giản (trang giới thiệu cá nhân, blog cơ bản).
 ### Tuần 3–4:
     * Học JavaScript cơ bản: Biến, hàm, vòng lặp, DOM manipulation. [Tài liệu tham khảo](https://www.youtube.com/watch?v=0SJE9dYdpps&list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5&index=1).
@@ -15,7 +16,7 @@
     * Tìm hiểu về Reactjs.
     * Khởi tạo một Project với Reactjs
 ### Tuần 2:
-    * Học CSS Framework (Bootstrap hoặc Tailwind CSS): Sử dụng để tạo giao diện nhanh chóng.
+    
     * Thực hành: Xây dựng trang web với Bootstrap hoặc Tailwind CSS.
 ### Tuần 3–4:
     * Học JavaScript Framework: Bắt đầu với React.js.
