@@ -14,4 +14,12 @@
   git push -u origin master
 -  Tạo nhánh mới
   git checkout -b tên-nhánh-mới
+-  Chuyển nhánh
+  git checkout tên-nhánh
+-  Gộp nhánh vào nhánh chính (merge)
+  git checkout main
+  git merge tên-nhánh-mới
+-  Cập nhật kho lưu trữ
+  git pull origin main
+
 
